@@ -1,0 +1,3 @@
+period,avg_delivery_time,total_on_time_orders,sla_compliance_pct
+Pre-Crisis,39.52,93246,43.61
+Crisis,60.13,7656,12.29
