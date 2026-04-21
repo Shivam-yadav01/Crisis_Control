@@ -97,6 +97,8 @@ To replicate the analysis or explore the findings, follow this standard pipeline
 * **4. Logic Reference:** Consult `notes.txt` for a detailed walkthrough of the SQL logic and the rationale behind the analytical approach.
 
 **Contributing**
+
 When adding new analysis queries:
+
 Document the business question being answered
 Include the SQL query with proper formatting
