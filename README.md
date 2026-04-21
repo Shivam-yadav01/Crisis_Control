@@ -99,6 +99,5 @@ To replicate the analysis or explore the findings, follow this standard pipeline
 **Contributing**
 
 When adding new analysis queries:
-
 Document the business question being answered
 Include the SQL query with proper formatting
