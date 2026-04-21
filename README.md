@@ -95,6 +95,7 @@ To replicate the analysis or explore the findings, follow this standard pipeline
 * **2. Data Analysis:** Run the curated SQL queries to extract metrics related to the crisis impact and recovery phases.
 * **3. Visualization:** Utilize **Metabase** to explore the data through interactive, real-time dashboards.
 * **4. Logic Reference:** Consult `notes.txt` for a detailed walkthrough of the SQL logic and the rationale behind the analytical approach.
+
 **Contributing**
 When adding new analysis queries:
 Document the business question being answered
